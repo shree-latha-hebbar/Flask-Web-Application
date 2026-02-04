@@ -4,6 +4,7 @@ A Flask web application with user authentication and personal note management. U
 
 
 Technologies used:
+
 • Python  
 • Flask  
 • Flask-SQLAlchemy  
